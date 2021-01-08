@@ -1,2 +1,2 @@
-# assignment-thyroide-data-set
-predicting whether the person is sick or not with the given data 
+# assignment-thyroid-data-set
+predicting whether the person is sick or not with the given imbalance class data set. 
